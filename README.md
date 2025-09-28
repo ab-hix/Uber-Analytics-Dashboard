@@ -27,3 +27,5 @@ This project is a Power BI dashboard built to analyze Uber trip data and provide
 2.Excel / CSV Dataset – Data source
 3.Power Query – Data cleaning & transformation
 4.DAX – Calculations & measures
+
+Project Snapshot: https://github.com/ab-hix/Uber-Analytics-Dashboard/blob/main/Uber%20Analytics.png
